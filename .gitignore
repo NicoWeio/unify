@@ -1,5 +1,2 @@
 .vscode
 .DS_Store
-
-# Typst build artifacts
-*.pdf
